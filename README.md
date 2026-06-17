@@ -38,12 +38,12 @@ Building blocks every system is made of.
 | 02 | Load Balancers | ✅ Done |
 | 03 | Databases (SQL vs NoSQL, Indexing, Replication, Sharding) | ✅ Done |
 | 04 | Caching | ✅ Done |
-| 05 | CAP Theorem | 🔄 Up next |
+| 05 | CAP Theorem | ✅ Done |
 
 ### Phase 2 — Simple Systems
 | # | System | Status |
 |---|---|---|
-| 01 | URL Shortener | ⏳ Pending |
+| 01 | URL Shortener | 🔄 Up next |
 | 02 | Pastebin | ⏳ Pending |
 | 03 | Rate Limiter | ⏳ Pending |
 
