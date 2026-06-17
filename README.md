@@ -37,8 +37,8 @@ Building blocks every system is made of.
 | 01 | DNS and Networking | ✅ Done |
 | 02 | Load Balancers | ✅ Done |
 | 03 | Databases (SQL vs NoSQL, Indexing, Replication, Sharding) | ✅ Done |
-| 04 | Caching | 🔄 Up next |
-| 05 | CAP Theorem | ⏳ Pending |
+| 04 | Caching | ✅ Done |
+| 05 | CAP Theorem | 🔄 Up next |
 
 ### Phase 2 — Simple Systems
 | # | System | Status |
